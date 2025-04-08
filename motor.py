@@ -22,6 +22,3 @@ class Motor:
     def reverse(self):
         self.speed=-1*self.speed
 
-
-
-
